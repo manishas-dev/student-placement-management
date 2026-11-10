@@ -67,7 +67,7 @@ Database credentials are stored locally in `config.properties`. This file is exc
 
 Manisha S
 
-B.Tech Computer Science and Engineering
+B.E Computer Science and Engineering
 
 ---
 
