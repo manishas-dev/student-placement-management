@@ -1,0 +1,15 @@
+# Private database credentials
+config.properties
+
+# Maven generated files
+target/
+
+# VS Code settings
+.vscode/
+
+# Java compiled files
+*.class
+
+# Operating system files
+.DS_Store
+Thumbs.db
